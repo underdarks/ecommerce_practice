@@ -9,5 +9,4 @@
 5. MultiModule
 6. DDD/Event Driven
 7. Kafka
-8. 
 
